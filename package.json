@@ -1,0 +1,9 @@
+{
+  "name": "cafe-preneur-online-research-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless web research API for Cafe Preneur",
+  "engines": { "node": ">=18" },
+  "scripts": { "dev": "vercel dev" },
+  "dependencies": {}
+}
